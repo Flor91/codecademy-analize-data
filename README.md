@@ -2,7 +2,7 @@
 
 ![Analyze Data with Python](./img.jpg "Analyze Data with Python")
 
-Analyze Data with Python
+## Analyze Data with Python
 
 Projects completed on the Skill Path focused on 
 - Statistics
@@ -10,7 +10,7 @@ Projects completed on the Skill Path focused on
 - Data manipulation
 - Analysis techniques
 
-## Modules:
+### Modules:
 1. Data Analysis
 2. Python
 3. NumPy: A Python Library for Statistics
